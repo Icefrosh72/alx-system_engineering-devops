@@ -1,1 +1,1 @@
-Write a script that changes the group owner
+Write a script that sets the mode of the file
