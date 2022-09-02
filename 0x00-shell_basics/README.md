@@ -1,1 +1,1 @@
-The symbolic link should be created in the current working directory
+We are symbols and inhabit symbols
