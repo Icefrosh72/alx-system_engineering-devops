@@ -1,1 +1,1 @@
-Display the first 10 lines of /etc/passwd
+Write a script that counts the number of directories and sub-directories in the current directory.
